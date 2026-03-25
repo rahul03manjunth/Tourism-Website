@@ -1,4 +1,14 @@
+#Tourism Website
+This is a Front-end project build using HTML, CSS and Javascript.
+##Features
+-Responsive design
+-Attractive UI
+-Travel destination details
 
+##Technologies uses
+-HTML
+-CSS
+-Javascript
  
   # Adventour-tourism-website
    Welcome to "Adventour" a travel website created exclusively with `HTML`, `CSS` and a touch of `JavaScript`. Feel free to fork, contribute, or use this open-source project as a learning tool to enhance your HTML and CSS skills.   <br />    <br />
